@@ -1,0 +1,11 @@
+﻿Build started 10/9/2015 5:33:24 AM.
+     1>Project "L:\School\CIT 242 (C++ II)\Project 12\Movie\Movie.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files\Visual Studio Pro 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Movie.cpp
+         Movie.cpp
+     1>l:\school\cit 242 (c++ ii)\project 12\movie\movie.cpp(42): error C2143: syntax error : missing ';' before '}'
+     1>Done Building Project "L:\School\CIT 242 (C++ II)\Project 12\Movie\Movie.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.42
